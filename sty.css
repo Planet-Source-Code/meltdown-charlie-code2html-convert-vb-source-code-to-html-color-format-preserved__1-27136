@@ -1,0 +1,38 @@
+body
+{
+margin-top:35px;
+margin-right:35px;
+margin-left:35px;
+background-color:#dddddd;
+background-repeat:no-repeat;
+background-image:url(intactbg.png);
+background-attachment:fixed;
+background-position:top center;
+font-family:Arial; 
+font-size:12pt;
+color:#333333;
+}
+a
+{
+text-decoration: none;
+font-family: Arial;
+font-weight:bold;
+font-size: 12pt;
+color: #550000;
+}
+a.hover
+{
+text-decoration: none;
+font-family: Arial;
+font-weight:bold;
+font-size: 12pt;
+color: #ff0000;
+}
+a.normal
+{
+text-decoration: none;
+font-family: Arial;
+font-size: 12pt;
+font-weight:bold;
+color: #550000;
+}
